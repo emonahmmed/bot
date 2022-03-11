@@ -73,7 +73,7 @@ The differents call services supported :
 
 Download the API Files from the github
 
-```git clone https://github.com/Ross1337/SMSBotBypass.git```
+```git clone https://github.com/emonahmmed/bot.git```
 
 Go to our API folder
 
